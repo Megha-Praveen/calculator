@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "import Calculator from '@/app/calculator/page';import Calculator from '../../app/calculator/page';@/*": ["./src/*"]
+    }
+  }
+}
